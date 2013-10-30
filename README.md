@@ -1,4 +1,1 @@
-mocl-benchmark-android
-======================
-
-mocl benchmarks on android
+This is an Android Developer Tools project that runs the "binary-trees" benchmark of http://benchmarksgame.alioth.debian.org/. The performance of Google's Dalvik JVM, running Java code, can be compared against mocl, running Lisp code.
